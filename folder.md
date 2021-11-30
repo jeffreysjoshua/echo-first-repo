@@ -24,3 +24,4 @@ Three (but kinda four) really important commands:
 - $ git commit -m "message"
 - $ git push origin main
 ```
+[The awesome syllabus] (https://github.com/learn-academy-2021-echo/Syllabus)
