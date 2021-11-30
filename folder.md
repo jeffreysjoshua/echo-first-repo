@@ -1,0 +1,17 @@
+# My first repo!
+
+## Learning to Code!
+
+### Markdown Exercise!
+
+Here are some awesome people in our Echo class
+- Noah
+- Regina
+- Samantha
+- Raul
+
+*This is in italics*
+
+**This is in bold**
+
+I am adding code to `GitHub`
