@@ -15,3 +15,12 @@ Here are some awesome people in our Echo class
 **This is in bold**
 
 I am adding code to `GitHub`
+
+```
+Three (but kinda four) really important commands:
+
+- $ git status (informaitonal)
+- $ git add .
+- $ git commit -m "message"
+- $ git push origin main
+```
